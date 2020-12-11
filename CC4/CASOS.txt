@@ -1,0 +1,27 @@
+3
+2 orizaba pachuca
+3 pachuca celaya acapulco
+2 campeche chetumal
+celaya
+acapulco
+
+3
+2 orizaba pachuca
+3 pachuca celaya acapulco
+2 campeche chetumal
+orizaba
+acapulco
+
+3
+2 orizaba pachuca
+3 pachuca celaya acapulco
+2 campeche chetumal
+orizaba
+chetumal
+
+3
+2 orizaba pachuca
+3 pachuca celaya acapulco
+2 campeche chetumal
+nuevo
+chetumal
